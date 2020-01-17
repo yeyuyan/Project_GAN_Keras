@@ -1,0 +1,2 @@
+time,lat,lon,elevation,accuracy,bearing,speed,satellites,provider,hdop,vdop,pdop,geoidheight,ageofdgpsdata,dgpsid,activity
+2016-12-15T13:01:39Z,50.325312,3.514794,,27.274,,,0,network,,,,,,,
